@@ -6,7 +6,7 @@ The data used was from one of the most exciting areas in all of data science rig
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-And the data for the project can be downloade from:
+The data for the project can be downloade from:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
