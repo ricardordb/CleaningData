@@ -72,7 +72,5 @@ names(tidyData) <- gsub('[-()]', '', names(tidyData))
 names(tidyData) <- gsub('mean', 'Mean', names(tidyData))
 names(tidyData) <- gsub('std', 'Std', names(tidyData))
 
-
-
 # Save tidyData dataframe
 write.table(tidyData, file = 'tidyData.txt', row.names=FALSE)
